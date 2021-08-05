@@ -16,7 +16,7 @@ $ docker-compose up -d rails
 $ docker-compose ps
 ```
 
-## アプリケーション終了まで
+## アプリケーション終了したい時
 ```
 $ docker-compose down
 ```
