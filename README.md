@@ -1,5 +1,7 @@
 # Docker_practice
-RailsアプリケーションをDockerに移行する手順を学習
+RailsアプリケーションをDockerに移行する手順を学習しました。
+
+
 
 
 ##アプリケーション立ち上げまで
